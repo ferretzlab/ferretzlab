@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hey there, I’m **Ferretz**!  
+#### Android Dev · UI Designer
 
-<!--
-**ferretzlab/ferretzlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ What I’m Building
+- **Android Apps with kotlin**
+- **UI Design**
+- **Backend & Databases**
+- **DevOps & Cloud**
+- **Other Explorations**: C++, embedded systems & IoT, game-dev
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📚 Follow me on X & Instagram:  
+  - **GitHub**: [github.com/ferretzlab](https://github.com/ferretzlab)  
+  - **X**: [@ferretzlab](https://x.com/ferretzlab)  
+  - **Instagram**: [@ferretzlab](https://instagram.com/ferretzlab)
