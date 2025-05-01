@@ -5,11 +5,7 @@
 </div>
 
 ## 👋 Hey there, I’m **Ferretz**!
-![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 Fueled by coffee and curiosity, I turned my love for code into an indie-hacking adventure. Now I build Android apps with personality, design sleek UIs, and share the whole messy-beautiful process — one experiment at a time.  
-![line](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
----
-
 ## 🛠️ What I’m Building
 - **Android Apps**
 - **UI Design**
