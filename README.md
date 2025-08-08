@@ -1,5 +1,5 @@
 ## 👋 Hey there, I’m **Ferretz**!
-Fueled by coffee and curiosity, I turned my love for code into an indie-hacking adventure. Now I build Android apps with personality, design sleek UIs, and share the whole messy-beautiful process — one experiment at a time.  
+Fueled by coffee and curiosity, I turned my love for code into an indie-hacking adventure. Now I build apps with personality, design sleek UIs, and share the whole messy-beautiful process — one experiment at a time.  
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
@@ -8,7 +8,7 @@ Fueled by coffee and curiosity, I turned my love for code into an indie-hacking 
 </div>
 
 ## 🛠️ What I’m Building
-- **Android Apps**
+- **Mobile Apps**
 - **UI Design**
 - **Backend & Databases**
 - **Other Explorations**: C++, embedded systems & IoT, game-dev  
